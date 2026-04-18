@@ -28,7 +28,7 @@ I am passionate about building secure systems and working with modern technologi
 - CSS3
 - JavaScript
 - Bootstrap
--
+
 
 ---
 
